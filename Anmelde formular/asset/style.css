@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+input[type="text"] {
+
+background-color: rgba(128, 128, 128, 0.384);
+width: 375px;
+height: 35px;
+}
+
+.selection { 
+    padding: 10px;
+    width: 800px;
+    height: 800px;
+   
+}
+
+.moe {
+    background-color: rgb(152, 146, 158);
+    padding: 35px;
+    
+}
+.alter1 {
+    width:100px;
+
+}
+select {
+    width: 382px;
+    height: 40px;
+    background-color: rgba(128, 128, 128, 0.384)
+}
+input .vorname {
+    width: 382px;
+    height: 35px;
+}
+
